@@ -12,12 +12,13 @@ class Students {
 }
 
 void main() {
-  String json = '''
+  String orderOfWizards = '''
 [
-  {"id":1, "first":"Steve", "last":"Griffith", "email":"griffis@algonquincollege.com"},
-  {"id":2, "first":"Vladimir", "last":"Cezar", "email":"cezarv@algonquincollege.com"},
-  {"id":3, "first":"Tony", "last":"Davidson", "email":"davidst@algonquincollege.com"},
-  {"id":4, "first":"Adam", "last":"Robillard", "email":"robilla@algonquincollege.com"}
+  {"id":1, "first":"Saruman", "last":"The White", "email":"burntheents@valinor.com"},
+  {"id":2, "first":"Gandalf", "last":"The Gray", "email":"TakeThatBalrog@valinor.com"},
+  {"id":3, "first":"Tony", "last":"Davidson", "email":"MushroomLover@valinor.com"},
+  {"id":4, "first":"Alatar", "last":"The Blue", "email":"GhostedAndGone@valinor.com"},
+  {"id":5, "first":"Pallando", "last":"The Blue", "email":"SeeYaLater@valinor.com"}
 ]
 ''';
 }
