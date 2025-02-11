@@ -15,7 +15,6 @@ class Wizards {
     for (var wizard in people) {
       print(wizard);
     }
-    // Just adding a visual breaker cause it hurts my eyes
     print('=-=-=-=-=-=-=-=-=-=');
   }
 
